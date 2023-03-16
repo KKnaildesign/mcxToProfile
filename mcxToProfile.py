@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# mcxToProfile.py
+# mcxToProfile.py --plist com.google.Chrome --identifier com.google.ChromeProfile.py
 # Simple utility to assist with creating Custom Settings Configuration Profiles
 # from plist files and Directory Services nodes
 
